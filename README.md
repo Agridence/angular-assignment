@@ -3,6 +3,9 @@
 1. PrimeNG (https://primeng.org/) and Prime FLex (https://primeflex.org/) is already installed. You can utilize these libraries for convenience.
 2. You can also choose to not use it or choose own UI library for testing purposes.
 
+# Submission
+Submit the assignment as a zip file in email.
+
 # Test 1
 
 As a user, I want to have a parent and child component interaction where:
